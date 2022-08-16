@@ -6,11 +6,6 @@
       "Salary": "34000"
     },
     {
-      "id": 4,
-      "name": "Rahul Kumar",
-      "Salary": "36000"
-    },
-    {
       "id": 5,
       "name": "Praveen Kumar",
       "Salary": "50000"
@@ -54,6 +49,11 @@
       "name": "Gita",
       "salary": 45000,
       "id": 18
+    },
+    {
+      "name": "saumya",
+      "salary": "45000",
+      "id": 19
     }
   ]
 }
