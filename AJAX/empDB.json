@@ -1,0 +1,59 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "name": "Nitish Kumar",
+      "Salary": "34000"
+    },
+    {
+      "id": 4,
+      "name": "Rahul Kumar",
+      "Salary": "36000"
+    },
+    {
+      "id": 5,
+      "name": "Praveen Kumar",
+      "Salary": "50000"
+    },
+    {
+      "id": 6,
+      "name": "Md Ayub",
+      "Salary": "39000"
+    },
+    {
+      "id": 7,
+      "name": "Shiwani Gupta",
+      "Salary": "90000"
+    },
+    {
+      "id": 8,
+      "name": "aadarsh Rajput",
+      "Salary": "30000"
+    },
+    {
+      "id": 10,
+      "name": "Ramya",
+      "Salary": "110000"
+    },
+    {
+      "id": 11,
+      "name": "Rohan",
+      "Salary": "55000"
+    },
+    {
+      "name": "Anjali Rajput",
+      "Salary": "40000",
+      "id": 16
+    },
+    {
+      "name": "Rj ",
+      "Salary": "40000",
+      "id": 17
+    },
+    {
+      "name": "Gita",
+      "salary": 45000,
+      "id": 18
+    }
+  ]
+}
